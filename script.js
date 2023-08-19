@@ -26,6 +26,8 @@ function geo(){
         console.log(data)
         const homepage = document.getElementById('homepage');
         homepage.style.display = 'none';
+        const secondpage = document.getElementById('secondpage');
+        secondpage.style.display='block';
     
         const newip = document.getElementById('ipaddy2');
         console.log(newip);

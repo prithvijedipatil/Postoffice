@@ -53,6 +53,10 @@ padding-top:200px;
     text-align: center;
     
 }
+
+#secondpage{
+    display:none;
+}
 #ipaddy{
     color:white;
     font-weight: bold;
